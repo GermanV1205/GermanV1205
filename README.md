@@ -4,10 +4,8 @@
 
 <hr>
 <pre>
-<div>
   <img style="float: right; margin-right: 10px;" width="20%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-
-</div>
+  
 💻 I am mainly a Backend Developer
 📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
 📝 I have a strong interest in Software Engineering and Design
