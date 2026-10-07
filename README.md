@@ -5,7 +5,7 @@
 <hr>
 <pre>
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="20%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 💻 I am mainly a Backend Developer
 📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
