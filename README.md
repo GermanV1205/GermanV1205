@@ -14,8 +14,7 @@
 🚩 Interested in Server Side Application development
 😃 I look forward to collaborate on impactful projects
 </pre>
-<hr>
-
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
+<hr>
