@@ -5,7 +5,7 @@
 <hr>
 <pre>
 <div>
-  <img style="float: right; margin-right: 50px;" width="20%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img style="float: right; margin-right: 10px;" width="20%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 </div>
 💻 I am mainly a Backend Developer
